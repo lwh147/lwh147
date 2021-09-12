@@ -2,8 +2,8 @@
 
 ### Hello, world ! 👋
 
-👷  Focusing on Java backend development
+🖥️  Focusing on Java backend development
 
-📔  Click [here](https://www.cnblogs.com/lwh147/) to visit my blog
+📓  Click [here](https://www.cnblogs.com/lwh147/) to visit my blog
 
 🎮  Game lover
